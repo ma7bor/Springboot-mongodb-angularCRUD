@@ -7,4 +7,4 @@ spring.data.mongodb.uri=mongodb://localhost:27017/employeesdb change employeesdb
 running the tomcat server all you need now is to run the springboot project.
 Note : if you wanna check the database after changes use this command db.Employee.find();
 
-![](springbootangularmongodbcrudproject/screenshots/employeelist.JPG)
+![](springbootangularmongodbcrudproject/screenshots/employee%20list.JPG)
