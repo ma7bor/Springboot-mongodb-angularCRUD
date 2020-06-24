@@ -6,4 +6,4 @@ Now the angular server is runing , you might be change the database name using i
 spring.data.mongodb.uri=mongodb://localhost:27017/employeesdb change employeesdb , then use these commands : use dbname; and now the mongodb server is running , and after 
 running the tomcat server all you need now is to run the springboot project.
 Note : if you wanna check the database after changes use this command db.Employee.find();
-
+![](springboot angular mongodb crud project/screenshots/employee list.JPG)
